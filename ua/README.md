@@ -3,3 +3,5 @@
 [Юридична частина](https://github.com/chexov/weapon-howto/blob/main/ua/law.md)
 
 [Технічна частина](https://github.com/chexov/weapon-howto/blob/main/ua/ballistics.md)
+
+[Правила безпеки на полюванні](https://github.com/chexov/weapon-howto/blob/main/ua/hunting.md)
